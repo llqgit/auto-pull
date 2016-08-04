@@ -1,0 +1,20 @@
+{
+  "name": "auto-pull",
+  "version": "1.0.0",
+  "description": "webhook, auto-pull your code to the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webhook",
+    "auto",
+    "pull",
+    "git",
+    "gitlab",
+    "github",
+    "coding"
+  ],
+  "author": "LLQ",
+  "license": "MIT"
+}
